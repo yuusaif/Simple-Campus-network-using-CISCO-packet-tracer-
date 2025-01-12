@@ -7,10 +7,11 @@ following requirements:
 2. One of the departments would use the DHCP protocol to assign the IP addresses 
 to all network hosts.  
 3. One of the departments would contain a VLAN system to separate students and 
-faculties networks. 4. A web server and a DNS server should be placed under the 
+faculties networks.
+4. A web server and a DNS server should be placed under the 
 admin office.  
-4. Any of your known dynamic routing protocols should be applied in the designed 
+5. Any of your known dynamic routing protocols should be applied in the designed 
 topology. 
-5. Apply your desired ACL in routers to access the resources of the admin office. 
+6. Apply your desired ACL in routers to access the resources of the admin office. 
 (For example, permit/deny any host/network to access the web server or any host 
 in the admin office)
